@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lewiyilma
+- 👋 Hi, I’m @lewi092
 - 👀 I’m interested in learning js
 - 🌱 I’m currently learning js and python
 - 💞️ I’m looking to collaborate on js and python to help me understand both
